@@ -1,29 +1,5 @@
 # weather-app
 
-## Project setup
-```
-npm install
-```
+## Search any location and reetrieve the current weather
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#[Search Weather](https://blairweather.herokuapp.com/)
